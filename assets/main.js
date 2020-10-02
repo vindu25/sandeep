@@ -12,7 +12,7 @@ $(document).ready(function () {
 
   $(function () {
     $('#countdown').countdowntimer({
-      dateAndTime: "2020/10/28 19:00:00",  // <-- edit yyyy / mm / dd / time
+      dateAndTime: "2020/10/29 11:04:00",  // <-- edit yyyy / mm / dd / time
       size: "lg",
       // if the date has over 4 digits in days then add an extra [0-9] in the first field bellow
       regexpMatchFormat: "([0-9][0-9]{1,2}):([0-9]{1,2}):([0-9]{1,2}):([0-9]{1,2})",
